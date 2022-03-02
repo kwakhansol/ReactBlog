@@ -59,6 +59,10 @@ body {
 }
 
 
+.list:hover{
+    cursor: pointer;
+}
+
 /* Modal UI 디자인 */
 
 .modal {
